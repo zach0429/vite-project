@@ -4,14 +4,5 @@
 </script>
 
 <template>
-  <HelloWorld msg="Vite + Vue" />
-  <nav>
-    <RouterLink to="/">HomePage </RouterLink>
-    <RouterLink to="/Login2">Special Page</RouterLink>
-  </nav>
-  <RouterView />
+  <HelloWorld/>
 </template>
-
-<style lang="scss">
-  
-</style>
